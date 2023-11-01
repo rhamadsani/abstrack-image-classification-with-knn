@@ -1,0 +1,8 @@
+- read all file in training data
+- rgb extraction get "mean"
+- rgb to grayscale extraction for First Order Statistics Features for Classification
+ 1. mean
+ 2. variance
+ 3. skewness
+ 4. Kurtosis
+ 5. Entropy
